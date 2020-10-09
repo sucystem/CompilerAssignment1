@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\sucys\source\repos\sucystem\CompilerAssignment1\Assignmnet1.1\Assignmnet1.1\main.cpp(25,19): warning C4101: 'token': unreferenced local variable
+  Scanner.c
+  Generating code
+  1 of 174 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Assignmnet1.1.vcxproj -> C:\Users\sucys\source\repos\sucystem\CompilerAssignment1\Assignmnet1.1\x64\Release\Assignmnet1.1.exe

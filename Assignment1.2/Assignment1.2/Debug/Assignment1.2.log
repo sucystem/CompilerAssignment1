@@ -1,0 +1,6 @@
+﻿  Parser.cpp
+  main.cpp
+C:\Users\sucys\source\repos\sucystem\CompilerAssignment1\Assignment1.2\Assignment1.2\main.cpp(24,19): warning C4101: 'token': unreferenced local variable
+  Generating Code...
+  Scanner.c
+  Assignment1.2.vcxproj -> C:\Users\sucys\source\repos\sucystem\CompilerAssignment1\Assignment1.2\Debug\Assignment1.2.exe
